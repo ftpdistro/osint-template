@@ -10,6 +10,7 @@ The following folder structure in ``` osint101-folder-template/example_project/o
 | GEOINT       | Geospatial Intelligence                     |
 | HUMINT       | Human Intelligence                 |     
 | IMAGEINT     | Image & Video Intelligence                 | 
+| RUMINT     | Rumor Intelligence                 | 
 | SIGINT       | Signals Intelligence                     |
 | TOOLINT      | Tool Intelligence                 |     
 | unsorted     | All files and folder to be sorted, as a triage. Ideal for large amounts of data that is scraped automatically using scripts.                 | 
